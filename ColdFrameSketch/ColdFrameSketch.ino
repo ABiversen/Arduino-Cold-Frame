@@ -37,7 +37,7 @@ void setup()
     //pinMode(ledPin, OUTPUT);
  
     // set enablePin high so that motor can turn on:
-    digitalWrite(enablePin, HIGH);  
+   
   
 
     // Initialization
